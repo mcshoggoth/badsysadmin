@@ -1,0 +1,3 @@
+[submodule "badsysadmin/themes/themes/hugo-bearblog"]
+	path = badsysadmin/themes/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git

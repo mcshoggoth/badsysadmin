@@ -1,0 +1,16 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "badsysadmin"
+theme = "hugo-bearblog"
+
+[Params]
+	mainSections = ["post"]
+	intro = true
+	headline = "The Face You Save May Be Your Own"
+	description = "Coming Soon"
+	github = "https://github.com/mcshoggoth/"
+	opengraph = true
+	dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+	post="/:filename/"
