@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "badsysadmin"
 theme = "hugo-bearblog"
+publishDir = "public"
 
 [Params]
 	mainSections = ["post"]
